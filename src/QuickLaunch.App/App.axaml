@@ -1,0 +1,18 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="QuickLaunch.App.App"
+             RequestedThemeVariant="Light">
+  <Application.Resources>
+    <SolidColorBrush x:Key="SidebarBg">#FFF0F0F0</SolidColorBrush>
+    <SolidColorBrush x:Key="SidebarSelected">#FFE4E4E4</SolidColorBrush>
+    <SolidColorBrush x:Key="ContentBg">#FFFFFFFF</SolidColorBrush>
+    <SolidColorBrush x:Key="TitleBg">#FFF7F7F7</SolidColorBrush>
+    <SolidColorBrush x:Key="BorderLine">#FFD8D8D8</SolidColorBrush>
+    <SolidColorBrush x:Key="TextPrimary">#FF222222</SolidColorBrush>
+    <SolidColorBrush x:Key="TextMuted">#FF888888</SolidColorBrush>
+    <SolidColorBrush x:Key="Accent">#FF4FC3F7</SolidColorBrush>
+    <SolidColorBrush x:Key="PanelBg">#FFFBFBFB</SolidColorBrush>
+    <SolidColorBrush x:Key="MenuBg">#FFFFFFFF</SolidColorBrush>
+    <SolidColorBrush x:Key="NestedGuide">#FFBDBDBD</SolidColorBrush>
+  </Application.Resources>
+</Application>

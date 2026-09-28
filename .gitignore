@@ -1,0 +1,22 @@
+# Build outputs
+**/bin/
+**/obj/
+**/publish/
+.vs/
+*.user
+*.suo
+*.DotSettings.user
+
+# Local / machine-specific
+test-theme.ps1
+*.log
+.DS_Store
+Thumbs.db
+
+# Secrets / env (keep out of repo)
+.env
+.env.*
+*.pem
+*.pfx
+credentials.json
+secrets.json
